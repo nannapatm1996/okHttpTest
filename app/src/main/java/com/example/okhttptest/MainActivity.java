@@ -128,8 +128,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 takePicture();
-                //selectImage();
-                //connectServer();
+                selectImage();
+                connectServer();
             }
         });
 
@@ -140,7 +140,7 @@ public class MainActivity extends AppCompatActivity {
         //EditText ipv4AddressView = findViewById(R.id.IPAddress);
         //String ipv4Address = ipv4AddressView.getText().toString();
         String ipv4Address = "199.212.33.81";
-        //String ipv4Address = "10.100.32.217";
+       // String ipv4Address = "10.100.32.217";
         //EditText portNumberView = findViewById(R.id.portNumber);
         //String portNumber = portNumberView.getText().toString();
         String portNumber = "5000";
