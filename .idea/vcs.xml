@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CaptureImage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Medical" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Notification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Notify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PillDispenser-V1-appside" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RealTimeCamera" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Zenbo_Dancing_v001" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/camera_new" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pilltest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quickstart-android" vcs="Git" />
+  </component>
+</project>
